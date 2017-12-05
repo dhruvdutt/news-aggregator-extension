@@ -4,5 +4,8 @@
   "name": "Post on News Aggregator",
   "description":
     "This extension allows the user to share the current webpage on news aggregator platform.",
-  "version": "1.0"
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
 }
