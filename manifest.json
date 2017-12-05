@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+
+  "name": "Post on News Aggregator",
+  "description":
+    "This extension allows the user to share the current webpage on news aggregator platform.",
+  "version": "1.0"
+}
